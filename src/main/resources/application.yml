@@ -1,0 +1,11 @@
+spring:
+ data:
+   mongodb:
+     uri: mongodb://localhost/DistributorServiceDB
+     username: user4
+     password: Root@123
+     database: DistributorServiceDB
+     port: 27017
+     host: localhost
+server:
+ port: 8086
